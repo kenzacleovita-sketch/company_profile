@@ -1,0 +1,27 @@
+
+*{
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family:'comic sans ms';
+}
+.wrapper{
+  width: 1001px;
+  margin: auto;
+  position: relative;
+
+}
+.logo a{
+  font-size: 20px;
+  font-family: 'comic sans ms';
+  font-weight: 800;
+  color: #411ab7;
+  float: left;
+}
+.menu{
+  float: right;
+}
